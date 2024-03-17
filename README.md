@@ -1,2 +1,3 @@
-# Pac_Men
-Website creating PacMen and starting a game of bouncing them inside the frame borders of te screen.
+# PacMen Game
+## PacMen & Make them bounce!
+<img src = 'PacMan1.png' width='250'>
