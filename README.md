@@ -1,9 +1,12 @@
 # PacMen Game
+
 ## Create PacMen & Make them Bounce!
 <img src = 'PacMan1.png' width='150'>
 This game will create as many Pacmen as you like and make them bounce randomly inside the window
-##How to use
+
+## How to use
 Go to the repo page to try it, or pull the repo files to your local machine or Github
+
 ## Road Map To improvements
 Many improvements could be made.
   Adding a reset button
